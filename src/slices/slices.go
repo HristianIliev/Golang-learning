@@ -13,5 +13,5 @@ func main() {
 	fmt.Println("arrayafter", darr)
 
 	i := make([]int, 5, 5)
-	fmt.Println(i)s
+	fmt.Println(i)
 }
